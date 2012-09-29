@@ -72,3 +72,5 @@ Interfaz gráfica por defecto gitk colores especiales para la consola git config 
 enlaces & recursos
 
 clientes gráficos GitX (L) (OSX, open source) Tower (OSX) Source Tree (OSX, free) GitHub for Mac (OSX, free) guías Git Community Book Pro Git Think like a git GitHub Help A Visual Git Guide
+
+------------------------------------------
