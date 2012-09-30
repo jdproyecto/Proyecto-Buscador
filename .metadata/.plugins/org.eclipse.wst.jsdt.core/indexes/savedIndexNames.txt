@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Proyecto-Buscador\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2937036355.index
+2941205108.index
+2897900424.index
+2650740886.index
+2644353104.index
