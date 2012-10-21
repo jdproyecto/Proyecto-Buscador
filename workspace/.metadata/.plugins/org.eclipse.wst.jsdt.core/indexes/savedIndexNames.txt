@@ -1,6 +1,0 @@
-INDEX VERSION 1.122+C:\Proyecto-Buscador\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-131486325.index
-4182231145.index
-624675816.index
-2650740886.index
-4200027645.index
